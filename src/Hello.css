@@ -1,0 +1,17 @@
+.myname {
+    color: yellow;
+    font-family: georgia;
+    font-style: italic;
+    border: salmon;
+    text-align: center;
+
+}
+
+.unorderlist {
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    border: salmon;
+    text-align: left ;
+    
+}
